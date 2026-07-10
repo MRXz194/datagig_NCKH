@@ -1,0 +1,5 @@
+- [x] Cập nhật `form-engine.js` với các mảng entry ID chính xác theo form.
+- [x] Cập nhật `deep_audit.js` với các mảng entry ID chính xác theo form.
+- [x] Cập nhật `check_reliability.js` với các mảng entry ID chính xác theo form.
+- [x] Khởi động lại Server node.js.
+- [x] Chạy lại `check_reliability.js` và `deep_audit.js` để kiểm chứng.

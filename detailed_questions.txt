@@ -1,0 +1,174 @@
+
+==================================================
+QUESTION 1: CÂU HỎI SÀNG LỌC (ID: 1489743072, Type: 8)
+==================================================
+  - No sub-questions
+
+==================================================
+QUESTION 2: Anh/Chị có đang sinh sống và làm việc chủ yếu tại khu vực Hà Nội không? (ID: 1026833100, Type: 2)
+==================================================
+  - Sub-Q 1: [['Có', None, -2, None, 0], ['Không', None, 2134735592, None, 0]] -> entry.1194929524
+
+==================================================
+QUESTION 3: Trong 3 tháng qua, Anh/Chị có kiếm được thu nhập từ công việc (các công việc) mà Anh/Chị được trả theo từng nhiệm vụ, dự án, hoặc 'cuốc xe' (thay vì nhận lương cố định hàng tháng từ một chủ lao động duy nhất) không? (ID: 1413991837, Type: 2)
+==================================================
+  - Sub-Q 1: [['Có (Ví dụ: tài xế công nghệ, giao hàng, làm dự án freelancer, bán hàng online...)', None, -2, None, 0], ['Không', None, 2134735592, None, 0]] -> entry.680965626
+
+==================================================
+QUESTION 4: Phần I: Thông tin về Công việc Gig (ID: 785333550, Type: 8)
+==================================================
+  - No sub-questions
+
+==================================================
+QUESTION 5: Loại hình công việc gig nào mô tả đúng nhất công việc chính của Anh/Chị? (Vui lòng chọn MỘT đáp án chính) (ID: 2129790800, Type: 2)
+==================================================
+  - Sub-Q 1: [['Tài xế công nghệ 4 bánh (ví dụ: GrabCar, BeCar, GoCar)', None, None, None, 0], ['Tài xế công nghệ 2 bánh (ví dụ: GrabBike, BeBike, GoRide)', None, None, None, 0], ['Giao hàng / Giao đồ ăn (ví dụ: GrabFood, ShopeeFood, BeFood, GoSend, AhaMove)', None, None, None, 0], ['Dịch thuật / Viết lách / Sáng tạo nội dung (Freelancer tri thức)', None, None, None, 0], ['Công nghệ thông tin / Lập trình / Thiết kế (Freelancer công nghệ)', None, None, None, 0], ['Bán hàng trực tuyến (qua các nền tảng TMĐT hoặc mạng xã hội)', None, None, None, 0], ['Dịch vụ tại nhà / tại chỗ (ví dụ: sửa chữa, dọn dẹp, làm đẹp, gia sư qua các ứng dụng)', None, None, None, 0], ['', None, None, None, 1]] -> entry.1124279370
+
+==================================================
+QUESTION 6: Anh/Chị làm việc chính qua (các) nền tảng/ứng dụng nào?  (ID: 1803662220, Type: 2)
+==================================================
+  - Sub-Q 1: [['Grab', None, None, None, 0], ['Be', None, None, None, 0], ['Gojek', None, None, None, 0], ['Shopee (ShopeeFood, SPX Express)', None, None, None, 0], ['Lazada', None, None, None, 0], ['AhaMove', None, None, None, 0], ['Upwork / Fiverr / Các nền tảng freelancer quốc tế', None, None, None, 0], ['Các nền tảng freelancer Việt Nam (ví dụ: vlance, 50k...)', None, None, None, 0], ['Mạng xã hội (Facebook, Zalo, TikTok)', None, None, None, 0], ['Không qua nền tảng cụ thể (làm việc trực tiếp với khách hàng)', None, None, None, 0], ['', None, None, None, 1]] -> entry.588459293
+
+==================================================
+QUESTION 7: Thu nhập từ (các) công việc gig chiếm bao nhiêu phần trăm (%) tổng thu nhập cá nhân hàng tháng của Anh/Chị? (ID: 149964269, Type: 2)
+==================================================
+  - Sub-Q 1: [['Dưới 25% (Công việc làm thêm/phụ)', None, None, None, 0], ['25% - 49%', None, None, None, 0], ['50% - 74%', None, None, None, 0], ['75% - 99%', None, None, None, 0], ['100% (Đây là nguồn thu nhập duy nhất của tôi)', None, None, None, 0]] -> entry.1977830788
+
+==================================================
+QUESTION 8: Ngoài công việc gig, Anh/Chị có đang có một công việc truyền thống (nhận lương cố định hàng tháng) nào khác không? (ID: 559918966, Type: 2)
+==================================================
+  - Sub-Q 1: [['Có (ví dụ: nhân viên văn phòng, công chức, giáo viên...)', None, None, None, 0], ['Không', None, None, None, 0]] -> entry.903597022
+
+==================================================
+QUESTION 9: Anh/Chị đã làm công việc gig chính này (như đã chọn ở câu A1) được bao lâu? (ID: 941802302, Type: 2)
+==================================================
+  - Sub-Q 1: [['Dưới 6 tháng', None, None, None, 0], ['Từ 6 tháng đến dưới 1 năm', None, None, None, 0], ['Từ 1 năm đến dưới 2 năm', None, None, None, 0], ['Từ 2 năm đến dưới 3 năm', None, None, None, 0], ['Từ 3 năm trở lên', None, None, None, 0]] -> entry.954175145
+
+==================================================
+QUESTION 10: Phần II: Nhận thức về Tự do trong Công việc (ID: 747432968, Type: 8)
+==================================================
+  - No sub-questions
+
+==================================================
+QUESTION 11: Quyền tự chủ trong công việc (ID: 530196914, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1764698874
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.2136598877
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.931868427
+  - Sub-Q 4: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.988686715
+
+==================================================
+QUESTION 12: Sự linh hoạt trong công việc (ID: 286055187, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1301169081
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1485311239
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.509779734
+
+==================================================
+QUESTION 13: Kiểm soát bằng thuật toán (ID: 544423106, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1021667198
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1537238157
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1207423808
+  - Sub-Q 4: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1474139962
+  - Sub-Q 5: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1630132262
+  - Sub-Q 6: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1417037831
+  - Sub-Q 7: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.246718828
+  - Sub-Q 8: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1496365804
+  - Sub-Q 9: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1284171530
+
+==================================================
+QUESTION 14:  Sự công bằng của thuật toán (ID: 1439005006, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1182523508
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.145774646
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1029576934
+
+==================================================
+QUESTION 15: Sự bấp bênh trong công việc (ID: 930727304, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.733550569
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1793251563
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1738812237
+  - Sub-Q 4: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.2116710063
+  - Sub-Q 5: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1112359158
+  - Sub-Q 6: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.583214913
+  - Sub-Q 7: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1616981919
+  - Sub-Q 8: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.853946028
+  - Sub-Q 9: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.540017196
+  - Sub-Q 10: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.36317342
+  - Sub-Q 11: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1939707774
+
+==================================================
+QUESTION 16: Cường độ / Áp lực công việc (ID: 1179931573, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1744872684
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.510666080
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1119873385
+
+==================================================
+QUESTION 17: Sự hài lòng trong công việc (ID: 737971163, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.136334252
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.330638432
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1754896101
+
+==================================================
+QUESTION 18: Ý định nghỉ việc (ID: 595594565, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1886414662
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1807026543
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1161203645
+
+==================================================
+QUESTION 19: Phần F: Nhận thức và Nỗ lực Phát triển Kỹ năng (ID: 713284109, Type: 8)
+==================================================
+  - No sub-questions
+
+==================================================
+QUESTION 20: Ý định nghỉ việc (ID: 1030337992, Type: 7)
+==================================================
+  - Sub-Q 1: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.926434420
+  - Sub-Q 2: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.1273995650
+  - Sub-Q 3: [['Hoàn toàn không đồng ý'], ['Không đồng ý'], ['Bình thường'], ['Đồng ý'], ['Hoàn toàn đồng ý']] -> entry.188967407
+
+==================================================
+QUESTION 21: Phần E: Thông tin Cơ bản (ID: 120863844, Type: 8)
+==================================================
+  - No sub-questions
+
+==================================================
+QUESTION 22: Tuổi của Anh/Chị (Vui lòng ghi số tuổi): (ID: 26150832, Type: 0)
+==================================================
+  - Sub-Q 1: No label -> entry.2027332586
+
+==================================================
+QUESTION 23: Giới tính của Anh/Chị: (ID: 1915893364, Type: 2)
+==================================================
+  - Sub-Q 1: [['Nam', None, None, None, 0], ['Nữ', None, None, None, 0], ['Khác', None, None, None, 0], ['Không muốn trả lời', None, None, None, 0]] -> entry.1410424917
+
+==================================================
+QUESTION 24: Trình độ học vấn cao nhất của Anh/Chị: (ID: 732559352, Type: 2)
+==================================================
+  - Sub-Q 1: [['Dưới Trung học Phổ thông (THPT)', None, None, None, 0], ['Tốt nghiệp THPT', None, None, None, 0], ['Trung cấp / Cao đẳng', None, None, None, 0], ['Đại học', None, None, None, 0], ['Sau Đại học (Thạc sĩ, Tiến sĩ)', None, None, None, 0]] -> entry.1257691062
+
+==================================================
+QUESTION 25: Tính trung bình, tổng số giờ Anh/Chị dành cho (các) công việc gig mỗi tuần là bao nhiêu?  (Vui lòng ghi số giờ mỗi tuần): (ID: 363955351, Type: 0)
+==================================================
+  - Sub-Q 1: No label -> entry.1526563019
+
+==================================================
+QUESTION 26: Tổng thu nhập trung bình mỗi tháng của Anh/Chị (từ TẤT CẢ các nguồn) là bao nhiêu?
+(Các khoảng thu nhập này được tham chiếu từ các nghiên cứu tại Việt Nam để đảm bảo tính phù hợp 10) (ID: 1726637007, Type: 2)
+==================================================
+  - Sub-Q 1: [['Dưới 5 triệu VNĐ', None, None, None, 0], ['Từ 5 đến dưới 10 triệu VNĐ', None, None, None, 0], ['Từ 10 đến dưới 15 triệu VNĐ', None, None, None, 0], ['Từ 15 đến dưới 20 triệu VNĐ', None, None, None, 0], ['Từ 20 triệu VNĐ trở lên', None, None, None, 0]] -> entry.1952938834
+
+==================================================
+QUESTION 27: Lời kết và Cảm ơn (ID: 1189856953, Type: 8)
+==================================================
+  - No sub-questions
+
+==================================================
+QUESTION 28: Dừng khảo sát   (ID: 2134735592, Type: 8)
+==================================================
+  - No sub-questions
